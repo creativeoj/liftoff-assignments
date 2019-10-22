@@ -38,4 +38,4 @@ Through this project, I will learn more Java environments.
 And I dive deeper into from a public API, and add JavaScript for application.
 
 ### Project Tracker
- https://trello.com/okjinshin/board
+https://trello.com/b/3qNoPiT9/oj-inventory-management-system-project
