@@ -7,13 +7,11 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-P3-Project_Planning/Register.pdf
-P3-Project_Planning/login.pdf
-P3-Project_Planning/home.pdf
-P3-Project_Planning/inventory.pdf
-P3-Project_Planning/history.pdf
-
+* [Register](https://github.com/creativeoj/liftoff-assignments/blob/master/P3-Project_Planning/Register.pdf)
+* [Login](https://github.com/creativeoj/liftoff-assignments/blob/master/P3-Project_Planning/login.pdf)
+* [Home](https://github.com/creativeoj/liftoff-assignments/blob/master/P3-Project_Planning/home.pdf)
+* [Inventory](https://github.com/creativeoj/liftoff-assignments/blob/master/P3-Project_Planning/inventory.pdf)
+* [Hisotory](https://github.com/creativeoj/liftoff-assignments/blob/master/P3-Project_Planning/history.pdf)
 ### Project Tracker
 
 https://trello.com/b/3qNoPiT9/oj-inventory-management-system-project
