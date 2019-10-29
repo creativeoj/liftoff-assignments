@@ -17,11 +17,12 @@ And this application also is similar to stock management system.   I like to add
 
 
 ### Features
--User Sign up: Users will be able to create a new profile for themselves, allowing them to track item flows. 
--User Login: Users will be able to login after creating a profile.  Password will be hashed, salted. 
--Edit, Create, and Delete items: Users will be able to create new items to track their item flows.  It will help to manage the entire item in the store
--View inventory by item: Users will be able to see an inventory 
--View inventory by date: The view by date will help to calculate write-offs for each category on a regular basis by date.
+-User Sign up: Users will be able to create a new profile for themselves, allowing them to track item flows.  As a user, I can sign up using my email&password
+-User Login: As a user, I can log in, using by email&password.  Users will be able to login after creating a profile. Password will be hashed, salted.
+-User Home: As a user can log in successfully, can see welcome message and instruction.
+-User Inventory: Edit, Create, and Delete items. Users will be able to create new items to track their item flows.  It will help to manage the entire item in the store.
+-User History: view all of history in app.  user can view by all, menu, inventory, item list , and location, you can monitor on this page. 
+-([optional)View inventory by date: The view by date will help to calculate write-offs for each category on a regular basis by date.
 
 ### Technologies
 Java (POJO)
@@ -32,10 +33,10 @@ IntelliJ Community Version
 MySQL
 
 ### What I'll Have to Learn
-I took C sharp track, when I took LC101 class. 
-Self-study was little bit a pain, but I understand java, IntelliJ community version, and spring-boot.  
+I took C sharp track in LC101 class. 
+Self-study was little bit a pain, but I learn and understand java, IntelliJ community version, and spring-boot.  
 Through this project, I will learn more Java environments. 
-And I dive deeper into from a public API, and add JavaScript for application.
+And I dive deeper into from a public API, and add JavaScript for this project.
 
 ### Project Tracker
 https://trello.com/b/3qNoPiT9/oj-inventory-management-system-project
